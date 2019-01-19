@@ -1,0 +1,11 @@
+C:\Users\DELL\Documents\C#\QuestionPaper\QuestionPaper\bin\Debug\QuestionPaper.exe.config
+C:\Users\DELL\Documents\C#\QuestionPaper\QuestionPaper\bin\Debug\QuestionPaper.exe
+C:\Users\DELL\Documents\C#\QuestionPaper\QuestionPaper\bin\Debug\QuestionPaper.pdb
+C:\Users\DELL\Documents\C#\QuestionPaper\QuestionPaper\obj\Debug\QuestionPaper.csprojAssemblyReference.cache
+C:\Users\DELL\Documents\C#\QuestionPaper\QuestionPaper\obj\Debug\QuestionPaper.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\C#\QuestionPaper\QuestionPaper\obj\Debug\QuestionPaper.exe
+C:\Users\DELL\Documents\C#\QuestionPaper\QuestionPaper\obj\Debug\QuestionPaper.pdb
+C:\Users\DELL\Documents\C#\QuestionPaper\QuestionPaper\bin\Debug\MySql.Data.dll
+C:\Users\DELL\Documents\C#\QuestionPaper\QuestionPaper\bin\Debug\Google.Protobuf.dll
+C:\Users\DELL\Documents\C#\QuestionPaper\QuestionPaper\bin\Debug\MySql.Data.xml
+C:\Users\DELL\Documents\C#\QuestionPaper\QuestionPaper\obj\Debug\QuestionPaper.csproj.CopyComplete
